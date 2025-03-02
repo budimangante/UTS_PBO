@@ -58,6 +58,7 @@ class Motor {
     }
 }
 
+//Main Menu
 public class ManajemenPembelianMotor {
     private static ArrayList<Motor> daftarMotor = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
